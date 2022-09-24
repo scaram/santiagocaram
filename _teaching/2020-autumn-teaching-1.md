@@ -10,5 +10,5 @@ location: "Viterbo, Italy"
 
 Political Economy II, 8514600-1
 
-[Syllabus](https://scaram.github.io/santiagocaram/files/syllabus.pdf "Syllabus (Programma del corso)")
+[Syllabus](https://scaram.github.io/santiagocaram/files/syllabus_ep2.pdf "Syllabus (Programma del corso)")
 ======
